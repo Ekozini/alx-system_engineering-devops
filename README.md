@@ -1,1 +1,1 @@
-This is a folder for redirections
+This is a read me 
